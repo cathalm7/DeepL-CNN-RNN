@@ -1,9 +1,12 @@
-# Objectives
+--------------------------------------------------------------------------------
+# Objectives & My results
+
 The learning objectives of this assignment are to:
 1. learn the TensorFlow Keras APIs for convolutional and recurrent neural
    networks.
 2. explore the space of hyper-parameters for convolutional and recurrent
    networks.
+
 
 My result:
 ```
@@ -25,6 +28,10 @@ Use command test code (Functions in nn.py):
 ```
    pytest test_nn.py
 ```
+
+
+
+
 ------------------------------------------------------------------------------------------------
 # Setup your environment
 
