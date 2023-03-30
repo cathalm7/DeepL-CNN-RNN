@@ -44,16 +44,6 @@ Minimally, you should install:
 * [tensorflow (version 2.9)](https://www.tensorflow.org/)
 * [pytest](https://docs.pytest.org/)
 
-# Check out the starter code
-
-After accepting the assignment on GitHub Classroom, clone the newly created
-repository to your local machine:
-```
-git clone https://github.com/ua-ista-457/convolutional-and-recurrent-networks-<your-username>.git
-```
-You are now ready to begin working on the assignment.
-You should do all your work in the default branch, `main`.
-
 # Write your code
 
 You will implement several convolutional and recurrent neural networks using the
