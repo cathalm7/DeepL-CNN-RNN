@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-# Objectives & My results
+# Objectives & My Results
 
 The learning objectives of this assignment are to:
 1. learn the TensorFlow Keras APIs for convolutional and recurrent neural
