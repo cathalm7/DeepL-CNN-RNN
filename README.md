@@ -20,7 +20,7 @@ My result:
    87.3% accuracy for RNN on Youtube comments
 
    80% accuracy Baseline for CNN on Youtube comment
-   87.3% accuracy for CNN on Youtube comments
+   87.8% accuracy for CNN on Youtube comments
 
 ```
 
